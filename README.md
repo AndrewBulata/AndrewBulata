@@ -8,3 +8,5 @@ I'm Andrew, former student & basketball player 🏀. I studied chemistry at Impe
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with NLP.
 - 💬 Ask me about anything.
+
+For optimal viewing, please use dark mode.
