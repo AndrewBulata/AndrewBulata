@@ -9,4 +9,6 @@ I'm Andrew, former chemistry student & basketball player 🏀. I studied chemist
 - 🤔 I’m looking for help with NLP.
 - 💬 Ask me about anything.
 
+I am eager to collaborate on computational projects, ranging from data science and NLP to Arduino programming. Let's connect!
+
 For optimal viewing, please use dark mode.
