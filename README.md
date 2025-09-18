@@ -1,14 +1,28 @@
-### Hi there 👋
+Hi there 👋
 
-I'm Andrew, former chemistry student & basketball player 🏀. I studied chemistry at Imperial College London, where I specialised in organic synthesis and drug discovery for cancer chemotherapy. Following graduation, I ventured into the finance sector, initially as a Mergers & Acquisitions analyst in Central Europe and later transitioning into a data analyst role in London.
+I’m Andrew Bulata, an MSc student in Forensic Science with Machine Learning at University College London, with a strong foundation in chemistry, data science, and AI.
 
-- 🔭 I’m learning Data Science & Natural Language Processing at the moment.
-- 🌱 I’m interested in the interplay between language, science, and AI.
-- 👨‍🎓 I'm fluent in 4 languages and currently studing 2 more.
-- 👯 I’m looking to collaborate on anything.
-- 🤔 I’m looking for help with NLP.
-- 💬 Ask me about anything.
+🔭 Currently working on:
+	•	Applying Natural Language Processing (NLP) to profile and analyse ransomware negotiation conversations.
+	•	Customising and extending SEANCE NLP to extract sentiment and pragmatic cues from noisy, real-world text data.
+	•	Exploring AI safety, interpretability, and alignment, with a focus on practical applications in cybercrime research.
 
-I am eager to collaborate on computational projects, ranging from data science and NLP to Arduino programming. Let's connect!
+🌱 Interests:
+	•	Safe, interpretable, and human-aligned AI systems
+	•	Language modelling, Bayesian methods, and computational forensics
+	•	Data-driven decision-making at the intersection of science and society
 
-For optimal viewing, please use dark mode.
+👨‍💻 Skills & Tools:
+Python • PyTorch • scikit-learn • SpaCy • NLTK • Pandas • Git • Machine Learning • NLP • Bayesian Networks
+
+👯 Collaboration:
+Open to collaborating on projects involving large language models, interpretability research, and NLP pipelines for real-world text analysis.
+
+💬 Ask me about:
+	•	AI safety and responsible deployment
+	•	NLP for cybercrime and security research
+	•	Data science workflows and Bayesian inference
+
+🏀 Fun fact:
+I’m a two-time national basketball champion.
+📜 I’m also a scholar of Latin and Ancient Greek, passionate about classical languages and their study using computational methods.
